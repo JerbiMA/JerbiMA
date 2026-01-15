@@ -35,6 +35,7 @@ I care about **clean architecture**, **good practices**, and tools that make sys
 ### 📊 Data & ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
