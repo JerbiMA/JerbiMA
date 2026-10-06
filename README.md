@@ -28,12 +28,11 @@ I'm particularly interested in **clean architecture, scalable systems, automatio
 |---|---|---|---|
 | **LunaShop** | E-Commerce | Laravel · Blade · MySQL | Full-featured e-commerce platform with authentication, roles, and packages |
 | **MonResto** | Restaurant Management | ASP.NET · Blazor · SQL Server | Web-based restaurant management system with advanced backend features |
-| **E-Booking** | Hotel / Booking | Spring Boot · Java · REST APIs | Hotel booking platform for managing rooms, reservations, and related services |
+| **E-Booking** | Hotel / Booking | Angular · Spring Boot · Java · REST APIs | Hotel booking platform for managing rooms, reservations, and related services |
 | **EventPlanner** | Event Management | Laravel · REST APIs | Event creation and management platform |
-| **NeuroCheck** | Digital Health | Web · APIs | Online psychological assessment and screening platform |
-| **AutoCar Recommendation** | AI / ML | Python | Recommendation system for an automotive platform |
+| **NeuroCheck** | Digital Health | Next.js · Laravel · Web · APIs | Online psychological assessment and screening platform |
+| **AutoCar Recommendation** | AI / ML | Python · Scikit-learn | Recommendation system for an automotive platform |
 | **PII Protector** | AI / NLP | Flask · spaCy · Regex · Ollama · Mistral · Electron | PII detection and anonymization tool using NLP and local LLMs |
-| **VisionForge** | AI / Computer Vision | Python · CNN · Neural Networks | Computer vision project exploring CNN architectures and model training |
 | **NeuralTune** | AI / Deep Learning | Python · Neural Networks | Deep learning project focused on neural-network training and fine-tuning |
 
 ---
