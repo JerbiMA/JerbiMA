@@ -24,6 +24,7 @@ I'm particularly interested in **clean architecture, scalable systems, automatio
 |---|---|
 | **Laravel / PHP** | Web Applications, REST APIs, MVC |
 | **.NET / ASP.NET** | Backend Systems, Web APIs |
+| **Spring Boot / Java** | Backend Systems, REST APIs |
 | **React** | Modern Web Applications |
 | **Next.js** | Full-Stack Web Applications |
 | **Angular** | SPA Development |
@@ -85,8 +86,8 @@ I'm particularly interested in **clean architecture, scalable systems, automatio
 |---|---|---|---|
 | **LunaShop** | E-Commerce | Laravel · Blade · MySQL | Full-featured e-commerce platform with authentication, roles, and packages |
 | **MonResto** | Restaurant Management | ASP.NET · Blazor · SQL Server | Web-based restaurant management system with advanced backend features |
+| **E-Booking** | Hotel / Booking | Spring Boot · Java · REST APIs | Hotel booking platform for managing rooms, reservations, and related services |
 | **EventPlanner** | Event Management | Laravel · REST APIs | Event creation and management platform |
-| **E-Booking** | Booking Platform | Web · REST APIs | Online booking platform for managing reservations and services |
 | **NeuroCheck** | Digital Health | Web · APIs | Online psychological assessment and screening platform |
 | **AutoCar Recommendation** | AI / ML | Python | Recommendation system for an automotive platform |
 | **PII Protector** | AI / NLP | Flask · spaCy · Regex · Ollama · Mistral · Electron | PII detection and anonymization tool using NLP and local LLMs |
@@ -95,11 +96,10 @@ I'm particularly interested in **clean architecture, scalable systems, automatio
 
 ---
 
-## 🏷️ GitHub Badges
-
 ### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -110,6 +110,7 @@ I'm particularly interested in **clean architecture, scalable systems, automatio
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
